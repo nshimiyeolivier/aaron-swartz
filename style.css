@@ -1,0 +1,156 @@
+
+body {
+   background-color: #e8eaed;
+}
+.page {
+        width: 650px;
+        margin: auto;
+        font-size: 16px;
+        font-family: 'source sanspro', calibri, Tahoma, sans-serif;
+        padding: 40px;
+        background-color: #e8eaed;
+        color: black;
+        text-align: justify;
+        }
+
+.top img {
+        padding-left: 15px;
+         padding-right: 15px;
+         border-radius: 200px;
+         border: 4px solid #696969;
+        /** margin-left: 300px;**/
+       }
+
+.top { text-align: center;
+  border: 20px solid #e8eaed;
+  background-color: white;
+     padding:20px;
+     border-radius: 25px;
+}
+
+p {font-size: 16px;
+   font-weight: 500;}
+
+.see a{
+  padding : 5px;
+    margin-left: 180px;
+    margin-right: 180px;
+    background-color:#ff4d4d;
+    font-weight :bold;
+    color: white;
+    border-radius: 6px;
+     }
+
+.links {
+  text-align : center;
+  background-color: white;
+  border: 20px solid #e8eaed;
+  padding : 50px;
+  border-radius: 25px;
+}
+h1 { color: #ff4d4d;}
+
+
+.fa { color: #999b9e;
+    }
+
+
+a {text-decoration: none;
+color:#999b9e;}
+
+.facebook {
+ color: #999b9e;
+ width: 70px;
+ height: 100px;
+  padding-left:100px;
+  float:left;
+}
+
+.linkedin {
+  color: #999b9e;
+  padding-left:55px;
+  float: left;
+}
+
+.twitter {
+  padding-right: 55px;
+  color: #999b9e;
+}
+
+.dates {
+  border: 20px solid #e8eaed;
+  background-color: white;
+  font-size: 14px;
+  padding: 10px;
+  font-family:serif;
+  line-height: 2;
+  border-radius: 25px;
+}
+
+.activites {
+  border-radius: 25px;
+  border: 20px solid #e8eaed;
+  background-color: white;
+  font-size: 14px;
+  padding: 10px;
+  font-family:serif;
+  line-height: 2;
+  font-family:serif;
+            }
+
+.text1 {
+  width:auto;
+}
+
+.left1 {
+float:left;
+margin-right: 20px;
+margin-top:20px
+font-family:serif;
+
+       }
+
+.right1 {
+  font-family: serif;
+  padding-left: 160px;
+  padding-right: 10px;
+
+}
+
+.text2 {
+       padding-bottom: 20px;
+        }
+
+.left2 {
+float:left;
+margin-right: 20px;
+margin-top: 20px
+       }
+
+.right2 {
+  padding-left: 160px;
+  padding-right: 10px;
+  font-family:serif;
+}
+
+.text3 {
+       padding-bottom: 20px;
+        }
+
+.left3 {
+float:left;
+margin-right: 20px;
+margin-top: 20px
+       }
+
+.right3 {
+  font-family:serif;
+  padding-left: 160px;
+  padding-right: 10px;
+}
+
+.h3 { padding-left: 100px;}
+
+img {
+  border-radius: 10px;
+}
